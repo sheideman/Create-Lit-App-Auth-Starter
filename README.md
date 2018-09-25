@@ -1,5 +1,8 @@
 # Create-Lit-App-Auth-Starter
 An auth starter example for the awesome create-lit-app. It uses Javascript Web Tokens to manage auth state (https://jwt.io/)
+This is super down and dirty -- most definitely can and should be refactored. Any upgrades/improvements welcome!
+
+Improvement ideas: GraphQL Implementation
 
 Steps:
 --NPM Install
