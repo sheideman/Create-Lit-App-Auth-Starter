@@ -8,9 +8,10 @@ NOTE: This is super down and dirty -- most definitely can and should be refactor
 ### Prerequisites
 
 Make sure you have node, NPM & mongodb in some way shape or form.
-```
-I'm a fan of MongoDB Atlas a cloud-hosted MongoDB service engineered and run by the same team that builds the database. Check them out! (https://mbsy.co/pq7N6) (full disclosure: I am an ambassador so they give me amazon gift cards for referrals -- but it is pretty easy to use and more affordable than things like mLab etc.)
-```
+I'm a fan of MongoDB Atlas a cloud-hosted MongoDB service 
+engineered and run by the same team that builds the database. 
+[Check them out!](https://mbsy.co/pq7N6) 
+(full disclosure: I am an ambassador so they give me amazon gift cards for referrals -- but it is pretty easy to use and more affordable than things like mLab etc.)
 
 ### Installing
 
