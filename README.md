@@ -24,6 +24,10 @@ cd Create-Lit-App-Auth-Starter
 npm install
 ```
 Copy or rename config.default.js  to config.js and add your own mongoDB Url, secret key and any other config vars you want to set up. You could also use environment variables if that is your jam.
+```
+mongod
+
+```
 Once your mongoDB instance is listening, then run:
 ```
 npm start
