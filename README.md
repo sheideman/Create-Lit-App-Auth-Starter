@@ -3,14 +3,18 @@ Working Example: (https://sheltered-mountain-33522.herokuapp.com)
 An auth starter example for the awesome [create-lit-app-advanced](https://github.com/thepassle/create-lit-app-advanced)  by @thepassle. It uses javascript web tokens(JWT) to manage auth state (https://jwt.io/) by employing a passport strategy 
 
 NOTE: This is super down and dirty -- most definitely can and should be refactored. Any upgrades/improvements welcome!
+
 Signup Route:
 ![image](https://user-images.githubusercontent.com/908715/46441595-d5cfa600-c71b-11e8-8b2d-8340dc994364.png)
+
 Signin Route:
 ![image](https://user-images.githubusercontent.com/908715/46441595-d5cfa600-c71b-11e8-8b2d-8340dc994364.png)
+
 User Profile Route:
 ![image](https://user-images.githubusercontent.com/908715/46441517-943efb00-c71b-11e8-8392-646bb4f7a520.png)
+
 Signout Route:
-![image](https://user-images.githubusercontent.com/908715/46441517-943efb00-c71b-11e8-8392-646bb4f7a520.png)
+![image](https://user-images.githubusercontent.com/908715/46441665-17f8e780-c71c-11e8-94f8-37d290bc30bd.png)
 ### Prerequisites
 
 Make sure you have node, NPM & mongodb in some way shape or form.
